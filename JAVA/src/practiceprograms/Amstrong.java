@@ -18,5 +18,5 @@ public class Amstrong {
 				System.out.println("a isnotstrongno");
 			
 		}
-	system.out.println("gitup is ready");
+	System.out.println("gitup is ready");
 }}
